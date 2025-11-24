@@ -6,7 +6,7 @@
 termux-setup-storage
 pkg install python -y
 pkg install git -y
-https://github.com/RX-NAFIJ/number.git
+git clone https://github.com/RX-NAFIJ/number.git
 ls
 cd number
 python number3.py
